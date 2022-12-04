@@ -51,7 +51,7 @@
   src:  font-url('assets/fonts/Cyberthrone.ttf') format('ttf');
 }
 
-.logoFont {
+.cyber-font {
   font-family: 'CyberThrone', sans-serif;
   font-weight:normal;
   font-style:normal;
@@ -3644,7 +3644,7 @@ span.is-active:after {
 /* footer section css start */
 .footer-section {
   position: relative;
-  padding-top: 250px; }
+  padding-top: 400px; }
   @media (max-width: 991px) {
     .footer-section {
       background-size: contain;
